@@ -1,0 +1,21 @@
+111
+111
+3
+1
+EASY
+20
+Alice in Wonderland
+0.1
+80
+2
+HELL
+500
+Frankenstein
+0.5
+45.4545
+3
+HARD
+915
+Lttle woman
+1
+70.1149

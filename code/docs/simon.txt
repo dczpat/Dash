@@ -1,0 +1,15 @@
+simon
+simon
+2
+1
+EASY
+100
+Alice in Wonderland
+0.1
+80
+2
+HELL
+800
+Frankenstein
+0.5
+45.4545
